@@ -5,6 +5,10 @@
 *.war
 *.ear
 
+.classpath
+.project
+.settings/
+
 *.log
 log.roo
 
