@@ -1,0 +1,13 @@
+*.class
+
+# Package Files #
+*.jar
+*.war
+*.ear
+
+*.log
+log.roo
+
+target/
+taskmanager/
+*.zip
